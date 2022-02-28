@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThoughtDef>
+    <defName>NoBitches</defName>
+    <workerClass>NoBitches.ThoughtWorker_HasNoBitches</workerClass>
+    <stages>
+      <li>
+        <label>No Bitches?</label>
+        <description>I have no bitches.</description>
+        <baseMoodEffect>-15</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>
